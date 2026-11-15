@@ -8,7 +8,7 @@ I'm building hands-on IT and security skills through a Windows Server home lab, 
 
 ## Featured project
 
-### [Windows Server Home Lab](https://github.com/MathewsSolutions/WinServe01)
+### [Windows Server Home Lab](https://github.com/MathewsSolutions/WinServer01)
 A working Windows domain built from scratch on a repurposed Dell OptiPlex 7020 (i7, 32 GB RAM).
 
 - Windows Server 2025 running directly on the hardware, with Hyper-V hosting the lab VMs
